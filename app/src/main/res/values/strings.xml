@@ -2,4 +2,6 @@
     <string name="app_name">AndroidSeekho</string>
     <string name="happy_birthday_sam">Happy Birthday, Sam</string>
     <string name="from_emma">From Emma</string>
+    <string name="hello_world">1</string>
+    <string name="roll">Roll</string>
 </resources>
